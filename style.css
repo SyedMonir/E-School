@@ -1,0 +1,62 @@
+.container {
+  margin-bottom: 25px;
+}
+
+#header {
+  /* height: 576px; */
+  height: auto;
+  background-color: #f0fff0;
+}
+
+#navbarNav {
+  float: right;
+  font-weight: bold;
+  color: black;
+  padding: 10px 40px !important;
+}
+
+.green-btn {
+  background: #21B573;
+  color: white;
+  padding: 10px 36px;
+  border: none;
+  border-radius: 33px;
+}
+
+.resize-img {
+  /* position: absolute; */
+  width: 66px;
+  height: 85px;
+}
+
+.card {
+  border: none;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px darkgray;
+  background-color: #F8FFFB;
+  width: 270px;
+  height: 270px;
+  padding: 40px 20px;
+}
+
+.modern-card {
+  width: 370px;
+  height: 483px;
+}
+
+.testimonial {
+  text-align: center;
+  font-weight: bold;
+  padding: 30px;
+}
+
+.footer {
+  background-color: #282531;
+  color: #ffffff;
+  padding: 30px;
+}
+
+footer {
+  background-color: #282531;
+  color: #ffffff;
+}
